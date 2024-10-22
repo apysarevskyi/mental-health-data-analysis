@@ -9,4 +9,6 @@ This repository contains an in-depth analysis of mental health data, focusing on
 * Visualizing trends in mental health-related factors and their influence on growing stress levels.
 * Applying statistical methods, including Chi-Square tests and correlation analysis, to understand relationships and draw insights from the data.
 
+The analysis is also available on Kaggle: [Mental Health Data Analysis Notebook](https://www.kaggle.com/code/andriipysarevskyi/mental-health-data-analysis).
+
 This project is part of my Data Analyst portfolio, and you can view my portfolio website here: [My Portfolio](https://apysarevskyi.github.io/).
